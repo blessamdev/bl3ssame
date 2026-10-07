@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=240&section=header&text=Samuel%20Bless&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Student%20%E2%9C%A6%20Aspiring Developer%20%E2%9C%A6%20Learner&descSize=24&descAlignY=60" width="100%" />
-
 <p align="center">
   <a href="https://github.com/blessamdev">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=1200&text=%F0%9F%91%8B%20Hi%2C%20I'm%20Blessam%20%F0%9F%92%BB%20Computer%20Science%20Student%20%7C%20C%20Programmer%20%7C%20Future%20Software%20Engineer%20%F0%9F%9A%80%20Building%2C%20learning%20%26%20documenting%20my%20journey%20one%20project%20at%20a%20time." alt="👋 Hi, I&#39;m Blessam 💻 Computer Science Student | C Programmer | Future Software Engineer 🚀 Building, learning &amp; documenting my journey one project at a time." />
@@ -60,5 +58,5 @@ Computer Science student passionate about coding,problem-solving and building us
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/blessamdev">blessamdev</a></i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=120&section=footer" width="100%" />
+
 
